@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "index.html",
+    "build": "build index.html ./output"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.4.0",
+    "leaflet-control-accordionlegend": "^1.2.1",
+    "leaflet-easybutton": "^2.4.0",
+    "leaflet-groupedlayercontrol": "^0.6.1",
+    "leaflet-search": "^2.9.8",
+    "leaflet-zoombox": "^0.5.1"
+  },
+  "devDependencies": {}
+}
